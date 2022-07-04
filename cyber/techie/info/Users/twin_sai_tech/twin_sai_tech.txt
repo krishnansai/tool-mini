@@ -1,0 +1,73 @@
+[~] Username : twin_sai_tech
+[~] Full Name : TWIN SAI TECH
+[~] Biography : Thanks for supporting friends 🔥🔥
+Support our YouTube channel frnds 👇
+[~] External Url : https://youtube.com/channel/UC_oEMYOCgK5-dZ1A2AIH6KQ
+[~] External Url Linkshimmed : https://l.instagram.com/?u=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC_oEMYOCgK5-dZ1A2AIH6KQ&e=ATN3_GK219s0vp-p024IF1Bwg06uuRDPyuCo8WRPLNcaW5WfFyGSwJJgvt8umnV_q12bHP_VTkd5PUuKJoXDHMeyMLdDBxJl&s=1
+[~] Edge Followed By : 792
+[~] Edge Follow : 976
+[~] is Private : False
+[~] is Verified : False
+[~] Category Enum : None
+[~] Profile Pic Url Hd : https://instagram.fmaa2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/182766341_457052265597759_5676890454810470808_n.jpg?_nc_ht=instagram.fmaa2-1.fna.fbcdn.net&_nc_ohc=FDpkX3_6eVAAX8YW9yc&edm=AAWvnRQBAAAA&ccb=7-4&oh=29b957876f8162011ba7a4bfb006030e&oe=6174E044&_nc_sid=e7738c
+[~] Show Suggested Profiles : False
+[~] Show Follow Dialog : False
+[~] Show View Shop : False
+[~] Highlight Reel Count : 2
+[~] Edge Felix Video Timeline : 3
+[~] Edge Owner To Timeline Media : 89
+[~] Has Clips : False
+[~] Has Guides : False
+[~] Has Ar Effects : False
+[~] Has Channel : False
+[~] id : 7275478946
+[~] is Joined Recently : False
+[~] Has Public Story : False
+[~] is Live Now : False
+[~] Overall Category Name : None
+[~] Category Name : Education
+[~] is Business Account : True
+[~] Should Show Category : False
+[~] Business Category Name : Professional Services
+[~] Country Block : False
+[~] Toast Content On Load : None
+[~] Profile Pic Edit Sync Props : {'show_change_profile_pic_confirm_dialog': False, 'show_profile_pic_sync_reminders': False, 'identity_id': '', 'remove_profile_pic_header': None, 'remove_profile_pic_subtext': None, 'remove_profile_pic_confirm_cta': None, 'remove_profile_pic_cancel_cta': None, 'is_business_central_identity': False, 'change_profile_pic_actions_screen_header': ['C', 'h', 'a', 'n', 'g', 'e', ' ', 'P', 'r', 'o', 'f', 'i', 'l', 'e', ' ', 'P', 'h', 'o', 't', 'o'], 'change_profile_pic_actions_screen_subheader': ['I', 'n', 's', 't', 'a', 'g', 'r', 'a', 'm', ',', ' ', 'F', 'a', 'c', 'e', 'b', 'o', 'o', 'k'], 'change_profile_pic_actions_screen_upload_cta': ['U', 'p', 'l', 'o', 'a', 'd', ' ', 'P', 'h', 'o', 't', 'o'], 'change_profile_pic_actions_screen_remove_cta': ['R', 'e', 'm', 'o', 'v', 'e', ' ', 'C', 'u', 'r', 'r', 'e', 'n', 't', ' ', 'P', 'h', 'o', 't', 'o'], 'change_profile_pic_actions_screen_cancel_cta': ['C', 'a', 'n', 'c', 'e', 'l']}
+[~] Loggin Page Id : profilePage_7275478946
+[~] Fbid : 17841407408389434
+[~] Connected Fb Page : None
+[~] Username : twin_sai_tech
+[~] Full Name : TWIN SAI TECH
+[~] Biography : Thanks for supporting friends 🔥🔥
+Support our YouTube channel frnds 👇
+[~] External Url : https://youtube.com/channel/UC_oEMYOCgK5-dZ1A2AIH6KQ
+[~] External Url Linkshimmed : https://l.instagram.com/?u=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC_oEMYOCgK5-dZ1A2AIH6KQ&e=ATMzzim-WPtCkHZzyu8Oztk5d9NPgyKsWfkx3sSm82iNy0h-hbM0VBcfPQEbx03bRVL847sqcRMNsFO3eJQ0xMn3h6NFrgRv&s=1
+[~] Edge Followed By : 792
+[~] Edge Follow : 976
+[~] is Private : False
+[~] is Verified : False
+[~] Category Enum : None
+[~] Profile Pic Url Hd : https://instagram.fmaa2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/182766341_457052265597759_5676890454810470808_n.jpg?_nc_ht=instagram.fmaa2-1.fna.fbcdn.net&_nc_ohc=FDpkX3_6eVAAX8YW9yc&edm=AAWvnRQBAAAA&ccb=7-4&oh=29b957876f8162011ba7a4bfb006030e&oe=6174E044&_nc_sid=e7738c
+[~] Show Suggested Profiles : False
+[~] Show Follow Dialog : False
+[~] Show View Shop : False
+[~] Highlight Reel Count : 2
+[~] Edge Felix Video Timeline : 3
+[~] Edge Owner To Timeline Media : 89
+[~] Has Clips : False
+[~] Has Guides : False
+[~] Has Ar Effects : False
+[~] Has Channel : False
+[~] id : 7275478946
+[~] is Joined Recently : False
+[~] Has Public Story : False
+[~] is Live Now : False
+[~] Overall Category Name : None
+[~] Category Name : Education
+[~] is Business Account : True
+[~] Should Show Category : False
+[~] Business Category Name : Professional Services
+[~] Country Block : False
+[~] Toast Content On Load : None
+[~] Loggin Page Id : profilePage_7275478946
+[~] Fbid : 17841407408389434
+[~] Connected Fb Page : None
